@@ -1,0 +1,43 @@
+
+%% load
+load cnt_ssvep;
+CNT = cnt_ssvep;
+
+% cnt variables
+% cnt.t  : time information 
+% cnt.fs : sampling frequency
+% cnt.y_dec : class information (e.g., up = 1, left = 2, right = 3, down = 4)
+% cnt.y_logic : logical format of class inforamtion 
+% cnt_y_class : class name (e.g., up, left, right, and down)
+% cnt.class : number of class 
+% cnt.chan : number of electrodes
+% cnt. x : raw eeg signals
+
+% revised 2017.11.11 - Oyeon Kwon (oy_kwon@korea.ac.kr)
+%% Initialization
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+time = 4;
+freq = [5, 7, 9, 11];
+fs = CNT.fs;
+interval = [0 4000];  %
+marker  = {'1','up';'2', 'left';'3', 'right';'4', 'down'};
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% CCA - Analysis
+SMT = prep_segmentation(CNT, {'interval', interval});
+
+numTrials = size(SMT.x, 2);
+count= numTrials;
+
+for i = 1: size(SMT.x, 2)
+    cca_result = ssvep_cca_analysis(squeeze(SMT.x(:,i,:)),{'marker',marker;'freq', freq;'fs', fs;'time',time});
+    [~, ind] = max(cca_result);
+    if SMT.y_dec(i) ~= ind
+        count = count -1;
+    end
+end
+fprintf('Accuracy: %.2f%%\n', count/numTrials);
+Accuracy = count/numTrials;
+
+
+
+
