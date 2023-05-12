@@ -1,1 +1,0 @@
-Brain-Computer Interface (BCI) in Star Lab
