@@ -1,9 +1,15 @@
 # AIHub-BCI
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Hub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20우주%20최강%20BTS%20팀&descAlignY=51&descAlign=62)
+<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
-<div align=left>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Hub!&fontSize=90" />	
-<br>
-</div>
 
 <div align=left>
 	<h1>🚀 AIHub 🚀</h1>
