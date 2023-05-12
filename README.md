@@ -1,5 +1,5 @@
 # AIHub-BCI
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Hub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20우주%20최강%20BTS%20팀&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Hub&fontColor=3C3C1F&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20우주%20최강%20BTS%20팀&descAlignY=51&descAlign=62)
 
 <div align=left>
 	<b>AI Hub 간략 소개</b>
