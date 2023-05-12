@@ -41,7 +41,23 @@ Additionally, it contains codes from other BCI groups and an OpenBMI demo. For q
 </div>
 </div>
 <div align=center>
-	---
+NeuroTalk: Voice Reconstruction from Brain Signals
+This repository is home to the official implementation of our novel algorithm aimed at reconstructing voice from EEG during imagined speech.
+
+Setup
+Ensure Python 3.8 is installed and run pip install -r requirements.txt to install the required dependencies.
+
+Training and Evaluation
+Our model is trained and evaluated on both spoken and imagined EEG data. Pretrained models can be utilized for training and evaluation. Use the provided commands to run these operations.
+
+Demo and Pretrained Models
+Visit our Demo page and access our pretrained model trained on participant 1.
+
+Key Contributions
+We've developed a generative model capable of extracting frequency characteristics and sequential information from neural signals to generate speech.
+Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.
+Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn phoneme level information from brain signals.
+Please cite our work as per the provided citation if you find it useful. Contributions are welcome!
 </div>
 <div align=center>
 	<p>🧠 GigaScience 🧠</p>
