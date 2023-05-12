@@ -57,7 +57,7 @@
 
 <div align=left>
 	<h1>🧠 TNNLS 🧠</h1>
-		<p><b>Motor imagination analysis codes at openbmi.org.</b></p>
+		<b>Motor imagination analysis codes at openbmi.org.</b>
 			<ul>
 				<li>This repository provides comprehensive analysis codes for motor imagination, including pre-processing, feature extraction, 							classification, and evaluation modules.</li>
 				<li>It includes codes for a basic motor imagination paradigm and example codes for setting up experiments and conducting analysis.</li>
