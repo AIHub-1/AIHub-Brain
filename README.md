@@ -1,8 +1,8 @@
 # AIHub-BCI
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Hub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20우주%20최강%20BTS%20팀&descAlignY=51&descAlign=62)
 
-<div align=center>
-	<b>aaa</b>
+<div align=left>
+	<b>AI Hub 간략 소개</b>
 </div>
 
 
@@ -48,8 +48,10 @@
 
 <div align=left>
 	<h1>🧠 TNNLS 🧠</h1>
-		<b>aaa</b>
-			<p>aaa</p>
+		<p><b>Motor imagination analysis codes at openbmi.org.</b></p>
+			<p>This repository provides comprehensive analysis codes for motor imagination, including pre-processing, feature extraction, classification, and 				evaluation modules.</p>
+			<p>It includes codes for a basic motor imagination paradigm and example codes for setting up experiments and conducting analysis.</p>
+			<p>For inquiries, refer to the website http://openbmi.org.</p>
 </div>
 
 <div align=left>
