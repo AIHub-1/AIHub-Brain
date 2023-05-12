@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-<h1>🧠 AIHub 🧠</h1>
+<h1>🚀 AIHub 🚀</h1>
 <h3>aaa</h3>
 </div>
 
