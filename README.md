@@ -10,7 +10,7 @@
 	<h1>🧠 Starlab 🧠</h1>
 		<b>The open software package, designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
 		<ul>
-			<li>It includes detailed information and example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
+			<li>Example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
 			<li>The package also features 'BMI_modules' with implementation functions, 'GUI module' for Graphic User Interface functions, and 'Paradigm' 					functions using Psychtoolbox.</li>
 			<li>Additionally, it contains codes from other BCI groups and an OpenBMI demo. For questions or more information, visit http://openbmi.org.</li>
 		</ul>
@@ -22,7 +22,7 @@
 		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
 	<b>Key Contributions</b>
 		<ul>
-			<li> We've developed a generative model capable of extracting frequency characteristics and sequential information from neural signals to generate 				speech.</li>
+			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate 				speech.</li>
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
 			<li>This work is currently under review for presentation at AAAI 2023.</li>
@@ -34,7 +34,7 @@
 	<h1>🧠 GigaScience 🧠</h1>
 		<b>Comprehensive collection of EEG signal preprocess/analysis codes.</b>
 			<ul>
-				<li>It primarily focuses on the analysis of brainwave data.</li>
+				<li>It primarily focuses on the analysis of EEG data.</li>
 				<li>This folder features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
 				<li>It serves as an invaluable resource for neuroscience researchers and data scientists.</li>
 				<li>This content is particularly useful for those interested in EEG data processing and brain-computer interfaces.</li>
