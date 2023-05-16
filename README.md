@@ -19,7 +19,7 @@
 <div align=left>
 <h1>🗣️ NeuroTalk 🗣️</h1>
 	<b>Voice Reconstruction from Brain Signals</b>
-		<p>This repository is home to the official implementation of our novel algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
+		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
 	<b>Key Contributions</b>
 		<ul>
 			<li> We've developed a generative model capable of extracting frequency characteristics and sequential information from neural signals to generate 				speech.</li>
@@ -35,9 +35,9 @@
 		<b>Comprehensive collection of EEG signal preprocess/analysis codes.</b>
 			<ul>
 				<li>It primarily focuses on the analysis of brainwave data.</li>
-				<li>The repository features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
+				<li>This folder features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
 				<li>It serves as an invaluable resource for neuroscience researchers and data scientists.</li>
-				<li>The repository's content is particularly useful for those interested in EEG data processing and brain-computer interfaces.</li>
+				<li>This content is particularly useful for those interested in EEG data processing and brain-computer interfaces.</li>
 			</ul>
 </div>
 
@@ -59,7 +59,7 @@
 	<h1>🧠 TNNLS 🧠</h1>
 		<b>Motor imagination analysis codes at openbmi.org.</b>
 			<ul>
-				<li>This repository provides comprehensive analysis codes for motor imagination, including pre-processing, feature extraction, 							classification, and evaluation modules.</li>
+				<li>This folder provides comprehensive analysis codes for motor imagination, including pre-processing, feature extraction, 							classification, and evaluation modules.</li>
 				<li>It includes codes for a basic motor imagination paradigm and example codes for setting up experiments and conducting analysis.</li>
 				<li>For inquiries, refer to the website http://openbmi.org.</li>
 			<ul>
