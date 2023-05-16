@@ -8,7 +8,7 @@
 
 <div align=left>
 	<h1>🧠 Starlab 🧠</h1>
-		<b>The open software package is designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
+		<b>The open software package, designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
 		<ul>
 			<li>It includes detailed information and example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
 			<li>The package also features 'BMI_modules' with implementation functions, 'GUI module' for Graphic User Interface functions, and 'Paradigm' 					functions using Psychtoolbox.</li>
