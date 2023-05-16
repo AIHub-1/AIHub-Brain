@@ -27,7 +27,6 @@
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
 			<li>This work is currently under review for presentation at AAAI 2023.</li>
 		</ul>
-		<p>Please cite our work as per the provided citation if you find it useful. Contributions are welcome!</p>
 </div>
 
 <div align=left>
