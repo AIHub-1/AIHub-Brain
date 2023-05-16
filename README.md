@@ -32,7 +32,7 @@
 
 <div align=left>
 	<h1>🧠 GigaScience 🧠</h1>
-		<b>The Gigascience Repository is a comprehensive collection of EEG signal preprocess/analysis codes.</b>
+		<b>Comprehensive collection of EEG signal preprocess/analysis codes.</b>
 			<ul>
 				<li>It primarily focuses on the analysis of brainwave data.</li>
 				<li>The repository features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
