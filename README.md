@@ -82,7 +82,7 @@
 		<p>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. H. Lee-41454A?style=plastic&logo=aerlingus&logoColor=FF6347"/></a>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. W. Kim-41454A?style=plastic&logo=aerlingus&logoColor=4169E1"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Y. E. Lee-41454A?style=plastic&logo=aerlingus&logoColor=3CB371"/></a>
+			<a href="https://github.com/youngeun1209" target="_blank"><img src="https://img.shields.io/badge/Y. E. Lee-41454A?style=plastic&logo=aerlingus&logoColor=3CB371"/></a>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/B. K. Ko-41454A?style=plastic&logo=aerlingus&logoColor=FFD700"/></a>
 		</p>
 		<p>
