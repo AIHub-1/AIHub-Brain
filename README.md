@@ -90,7 +90,7 @@
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J.-S. Lee-41454A?style=plastic&logo=aerlingus&logoColor=FF7F50"/></a>
 			<a href="https://github.com/rlawnsdud99" target="_blank"><img src="https://img.shields.io/badge/J.-Y. Kim-41454A?style=plastic&logo=aerlingus&logoColor=87CEFA"/></a>
 			<a href="https://github.com/park-jiha" target="_blank"><img src="https://img.shields.io/badge/J.-H. Park-41454A?style=plastic&logo=aerlingus&logoColor=32CD32"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/D.-S. Kim-41454A?style=plastic&logo=aerlingus&logoColor=F08080"/></a>
+			<a href="https://github.com/deokseonKim" target="_blank"><img src="https://img.shields.io/badge/D.-S. Kim-41454A?style=plastic&logo=aerlingus&logoColor=F08080"/></a>
 		</p>
 </div>	
 <div align=center>
