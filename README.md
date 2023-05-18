@@ -79,23 +79,24 @@
 <div align=left>
 	<h3>😎Contributor!😎</h3>
 		<p>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. H. Lee-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. W. Kim-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Y. E. Lee-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. W. Lee-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/B. K. Ko-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. H. Lee-FF6347?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. W. Kim-4169E1?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Y. E. Lee-3CB371?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/B. K. Ko-FFD700?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
 		</p>
 		<p>
-			<a href="https://github.com/rlawnsdud99" target="_blank"><img src="https://img.shields.io/badge/J. Y. Kim-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. H. Park-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
-			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/D. S. Kim-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. W. Lee-9370DB?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. S. Lee-FF7F50?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="https://github.com/rlawnsdud99" target="_blank"><img src="https://img.shields.io/badge/J. Y. Kim-87CEFA?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. H. Park-32CD32?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
+			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/D. S. Kim-F08080?style=plastic&logo=aerlingus&logoColor=41454A"/></a>
 		</p>
 </div>
 				
 <div align=left>
 	<h3>🚀Contact!🚀</h3>
 		<p>
-			<a href="" target="_blank"><img src="https://img.shields.io/badge/j_y_kim@korea.ac.kr-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
+			<a href="mailto:j_y_kim@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/j_y_kim@korea.ac.kr-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
 		</p>
-
 </div>
+
