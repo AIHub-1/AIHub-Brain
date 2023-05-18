@@ -3,7 +3,6 @@
 
 <div align=left>
 	<b>-AI Hub Project Introduction-</b>
-	<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/AIHub-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
 </div>
 
 
@@ -91,4 +90,12 @@
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. H. Park-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/D. S. Kim-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
 		</p>
+</div>
+				
+<div align=left>
+	<h3>🚀Contact!🚀</h3>
+		<p>
+			<a href="" target="_blank"><img src="https://img.shields.io/badge/j_y_kim@korea.ac.kr-0099E5?style=plastic&logo=acclaim&logoColor=0099E5"/></a>
+		</p>
+
 </div>
