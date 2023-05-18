@@ -31,7 +31,7 @@
 
 <div align=left>
 	<h1>🧠 GigaScience 🧠</h1>
-		<b>Comprehensive collection of EEG signal preprocess/analysis codes.</b>
+		<b>Comprehensive collection of EEG signal preprocess/analysis codes</b>
 			<ul>
 				<li>It primarily focuses on the analysis of EEG data.</li>
 				<li>This folder features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
@@ -55,7 +55,7 @@
 
 <div align=left>
 	<h1>🧠 TNNLS 🧠</h1>
-		<b>Motor imagination analysis codes at openbmi.org.</b>
+		<b>Motor imagination brain signal analysis codes</b>
 			<ul>
 				<li>This folder provides comprehensive analysis codes for motor imagination, including pre-processing, feature extraction, 							classification, and evaluation modules.</li>
 				<li>It includes codes for a basic motor imagination paradigm and example codes for setting up experiments and conducting analysis.</li>
