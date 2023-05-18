@@ -76,7 +76,8 @@
 			<p>aaa<p>
 </div>
 -->
-<div align=left>
+<hr>
+<div align=center>
 	<h3>😎Contributor!😎</h3>
 		<p>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/S. H. Lee-41454A?style=plastic&logo=aerlingus&logoColor=FF6347"/></a>
@@ -91,9 +92,8 @@
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J. H. Park-41454A?style=plastic&logo=aerlingus&logoColor=32CD32"/></a>
 			<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/D. S. Kim-41454A?style=plastic&logo=aerlingus&logoColor=F08080"/></a>
 		</p>
-</div>
-<hr>	
-<div align=left>
+</div>	
+<div align=center>
 	<h3>🚀Contact!🚀</h3>
 		<p>
 			<a href="mailto:j_y_kim@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/j_y_kim@korea.ac.kr-41454A?style=plastic&logo=naver&logoColor=#03C75A"/></a>
