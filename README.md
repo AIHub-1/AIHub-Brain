@@ -62,7 +62,8 @@
 				<li>For inquiries, refer to the website http://openbmi.org.</li>
 			<ul>
 </div>
-
+				
+<!--
 <div align=left>
 	<h1>🧠 Sementics 🧠</h1>
 		<b>aaa</b>
@@ -70,7 +71,8 @@
 </div>
 
 <div align=left>
-<h1>🧠 OnlineDemo 🧠</h1>
-<b>aaa</b>
-<p>aaa<p>
+	<h1>🧠 OnlineDemo 🧠</h1>
+		<b>aaa</b>
+			<p>aaa<p>
 </div>
+-->
