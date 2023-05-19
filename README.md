@@ -39,7 +39,7 @@
 </div>
 
 <div align=left>
-	<h1>🧠 Starlab 🧠</h1>
+	<h1>🧠 OpenBMI 🧠</h1>
 		<b>The open software package, designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
 		<ul>
 			<li>Example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
