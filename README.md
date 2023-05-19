@@ -2,21 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Hub&fontColor=3C3C1F&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20AI%20Innovation%20Hub%20BCI%20Project&descAlignY=51&descAlign=62)
 
 <div align=left>
-	<b>-AI Hub Project Introduction-</b>
-</div>
-
-
-<div align=left>
-	<h1>🧠 Starlab 🧠</h1>
-		<b>The open software package, designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
-		<ul>
-			<li>Example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
-			<li>The package also features 'BMI_modules' with implementation functions, 'GUI module' for Graphic User Interface functions, and 'Paradigm' 					functions using Psychtoolbox.</li>
-			<li>Additionally, it contains codes from other BCI groups and an OpenBMI demo. For questions or more information, visit http://openbmi.org.</li>
-		</ul>
-</div>
-
-<div align=left>
 <h1>🗣️ NeuroTalk 🗣️</h1>
 	<b>Voice Reconstruction from Brain Signals</b>
 		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
@@ -27,6 +12,19 @@
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
 			<li>This work is currently under review for presentation at AAAI 2023.</li>
 		</ul>
+</div>
+
+<div align=left>
+	<h1>🏎️ Diff-E 🏎️</h1>
+		<b>EEG Imagined Speech Decoding Using Diffusion-based Learning </b>
+			<p>Decoding EEG signals for imagined speech has been a complex task, primarily due to the high-dimensional nature of the data and a low signal-to-noise ratio.</p>
+		<b>Key Contributions</b>
+			<ul>
+				<li>Our study introduces Diff-E, a novel method that utilizes denoising diffusion probabilistic models (DDPMs) and a conditional 						autoencoder to address these challenges.</li>
+				<li>We've found that Diff-E substantially outperforms traditional machine learning techniques and baseline models in terms of decoding 					accuracy.</li> 
+				<li>These findings indicate the potential effectiveness of DDPMs for EEG signal decoding, suggesting possible applications in the 						development of brain-computer interfaces that enable communication through imagined speech.</li>
+				<li>This work is currently under review for presentation at Interspeech 2023.</li>
+			</ul>
 </div>
 
 <div align=left>
@@ -41,16 +39,13 @@
 </div>
 
 <div align=left>
-	<h1>🏎️ Diff-E 🏎️</h1>
-		<b>EEG Imagined Speech Decoding Using Diffusion-based Learning </b>
-			<p>Decoding EEG signals for imagined speech has been a complex task, primarily due to the high-dimensional nature of the data and a low signal-to-noise ratio.</p>
-		<b>Key Contributions</b>
-			<ul>
-				<li>Our study introduces Diff-E, a novel method that utilizes denoising diffusion probabilistic models (DDPMs) and a conditional 						autoencoder to address these challenges.</li>
-				<li>We've found that Diff-E substantially outperforms traditional machine learning techniques and baseline models in terms of decoding 					accuracy.</li> 
-				<li>These findings indicate the potential effectiveness of DDPMs for EEG signal decoding, suggesting possible applications in the 						development of brain-computer interfaces that enable communication through imagined speech.</li>
-				<li>This work is currently under review for presentation at Interspeech 2023.</li>
-			</ul>
+	<h1>🧠 Starlab 🧠</h1>
+		<b>The open software package, designed for developing Brain-Computer Interfaces (BCIs) with various advanced pattern recognition algorithms.</b>
+		<ul>
+			<li>Example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
+			<li>The package also features 'BMI_modules' with implementation functions, 'GUI module' for Graphic User Interface functions, and 'Paradigm' 					functions using Psychtoolbox.</li>
+			<li>Additionally, it contains codes from other BCI groups and an OpenBMI demo. For questions or more information, visit http://openbmi.org.</li>
+		</ul>
 </div>
 
 <div align=left>
