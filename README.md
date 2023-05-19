@@ -10,7 +10,7 @@
 			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate 				speech.</li>
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
-			<li>This work is currently under review for presentation at AAAI 2023.</li>
+			<li>This work is currently accepted for presentation at AAAI 2023.</li>
 		</ul>
 </div>
 
@@ -23,7 +23,7 @@
 				<li>Our study introduces Diff-E, a novel method that utilizes denoising diffusion probabilistic models (DDPMs) and a conditional 						autoencoder to address these challenges.</li>
 				<li>We've found that Diff-E substantially outperforms traditional machine learning techniques and baseline models in terms of decoding 					accuracy.</li> 
 				<li>These findings indicate the potential effectiveness of DDPMs for EEG signal decoding, suggesting possible applications in the 						development of brain-computer interfaces that enable communication through imagined speech.</li>
-				<li>This work is currently under review for presentation at Interspeech 2023.</li>
+				<li>This work is currently accepted for presentation at Interspeech 2023.</li>
 			</ul>
 </div>
 
