@@ -44,7 +44,7 @@
 		<ul>
 			<li>Example codes for Motor Imagination (MI), Event-Related Potential (ERP), and Steady-State Visually Evoked 				Potential (SSVEP) in the 'Examples' folder.</li>
 			<li>The package also features 'BMI_modules' with implementation functions, 'GUI module' for Graphic User Interface functions, and 'Paradigm' 					functions using Psychtoolbox.</li>
-			<li>Additionally, it contains codes from other BCI groups and an OpenBMI demo. For questions or more information, visit http://openbmi.org.</li>
+			<li>Additionally, it contains codes from other BCI groups and an OpenBMI demo. For questions or more information,  visit http://openbmi.org.</li>
 		</ul>
 </div>
 
