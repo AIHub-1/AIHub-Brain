@@ -65,14 +65,14 @@
 				
 <div align=left>
 	<h1>❔ Sementics ❔</h1>
-		<b>aaa</b>
+		<b>This folder contains code for the topic 'Reconstructing Sentences from Brain Signals using Contextual and Semantic Information'. The corresponding paper is currently submitted for review to <a href="https://ieeesmc2023.org/">SMC 2023</a>. It will be updated in the near future.</b>
 			<ul>
 			</ul>
 </div>
 
 <div align=left>
 	<h1>💻 OnlineDemo 💻</h1>
-		<b>aaa</b>
+		<b>This OnlineDemo folder will continue to be updated for an online demo system that is currently under development.</b>
 			<ul>
 			</ul>
 </div>
