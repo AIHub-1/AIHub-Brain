@@ -7,7 +7,7 @@
 		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
 	<b>Key Contributions</b>
 		<ul>
-			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate 				speech.</li>
+			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate speech.</li>
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
 			<li>This work is currently accepted for presentation at <a href="https://aaai-23.aaai.org/">AAAI 2023</a>.</li>
