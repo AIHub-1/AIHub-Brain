@@ -3,7 +3,7 @@
 
 <div align=left>
 <h1>🗣️ NeuroTalk 🗣️</h1>
-	<b>Voice Reconstruction from Brain  Signals</b>
+	<b>Voice Reconstruction from Brain Signals</b>
 		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
 	<b>Key Contributions</b>
 		<ul>
