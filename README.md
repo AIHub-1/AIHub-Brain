@@ -36,7 +36,7 @@
 </div>
 
 <div align=left>
-	<h1>💻 OnlineDemo 💻</h1>
+	<h1>💻 Online Demo 💻</h1>
 		<b>This OnlineDemo folder will continue to be updated for an online demo system that is currently under development.</b>
 			<ul></ul>
 </div>
