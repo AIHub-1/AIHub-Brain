@@ -47,7 +47,7 @@
 		<ul>A comprehensive collection of Brain-Computer Interfaces (BCIs) and EEG signal analysis codes</ul>
 		<ul>Focusing on EEG data analysis, BCIs development, and motor imagination analysis respectively.</ul>
 		<ul>The folders offer varied functionalities like Motor Imagery, Steady-State Visual Evoked Potential, and Event-Related Potential analysis, GUI module, and Paradigm functions.</ul>	
-		<ul>For further information or inquiries, visit [openbmi.org](http://openbmi.org).</ul>
+		<ul>For further information or inquiries, visit (http://openbmi.org).</ul>
 </div>
 
 <hr>
