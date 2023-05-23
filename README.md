@@ -8,9 +8,9 @@
 		<ul>
 			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate speech.</li>
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
-			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
+			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing the capability to learn phoneme level information from brain signals.</li>
 			<li>This work is currently accepted for presentation at <a href="https://aaai-23.aaai.org/">AAAI 2023</a>.</li>
-			<li>This work is based on <a href="https://github.com/youngeun1209/NeuroTalk">Neurotalk</a>. We will continue to develop and extend from this foundational work..</li>
+			<li>This work is based on <a href="https://github.com/youngeun1209/NeuroTalk">Neurotalk</a>. We will continue to develop and extend this foundational work..</li>
 		</ul>
 </div>
 
@@ -24,7 +24,7 @@
 				<li>We've found that Diff-E substantially outperforms traditional machine learning techniques and baseline models in terms of decoding 					accuracy.</li> 
 				<li>These findings indicate the potential effectiveness of DDPMs for EEG signal decoding, suggesting possible applications in the 						development of brain-computer interfaces that enable communication through imagined speech.</li>
 				<li>This work is currently accepted for presentation at <a href="https://www.interspeech2023.org/">Interspeech 2023</a>.</li>
-				<li>This work is based on <a href="https://github.com/diffe2023/Diff-E">Diff-E</a>. We will continue to develop and extend from this foundational work.</li>
+				<li>This work is based on <a href="https://github.com/diffe2023/Diff-E">Diff-E</a>. We will continue to develop and extend this foundational work.</li>
 			</ul>
 </div>
 				
@@ -47,7 +47,7 @@
 	<h2> Open Source </h2>
 		<ul>A comprehensive collection of Brain-Computer Interfaces (BCIs) and EEG signal analysis codes</ul>
 		<ul>Focusing on EEG data analysis, BCIs development, and motor imagination analysis respectively.</ul>
-		<ul>The folders offer varied functionalities like Motor Imagery, Steady-State Visual Evoked Potential, and Event-Related Potential analysis, GUI module, and Paradigm functions.</ul>	
+		<ul>The folders offer varied functionalities like Motor Imagery, Steady-State Visual Evoked Potential, Event-Related Potential analysis, GUI module, and Paradigm functions.</ul>	
 		<ul>For further information or inquiries, visit (http://openbmi.org).</ul>
 </div>
 
