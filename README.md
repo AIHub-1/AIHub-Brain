@@ -4,7 +4,7 @@
 <h1>🗣️ NeuroTalk 🗣️</h1>
 	<b>Voice Reconstruction from Brain Signals</b>
 		<p>The algorithm aimed at reconstructing voice from EEG during imagined speech.</p>
-	<b>Key  Contributions</b>
+	<b>Key Contributions</b>
 		<ul>
 			<li>A generative model capable of extracting frequency characteristics and sequential information from neural signals to generate speech.</li>
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
