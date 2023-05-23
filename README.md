@@ -10,7 +10,7 @@
 			<li>Addressed the constraint of imagined speech-based BTS system lacking ground truth voice by employing a domain adaptation method.</li>
 			<li>Demonstrated the potential of robust speech generation by training only several words or phrases, with the model showing capability to learn 				phoneme level information from brain signals.</li>
 			<li>This work is currently accepted for presentation at <a href="https://aaai-23.aaai.org/">AAAI 2023</a>.</li>
-			<li>This work is based on <a href="https://github.com/youngeun1209/NeuroTalk">Neurotalk</a>. We will continue to develop and extend from this foundational work.</li>
+			<li>This work is based on <a href="https://github.com/youngeun1209/NeuroTalk">Neurotalk</a>. We will continue to develop and extend from this foundational work..</li>
 		</ul>
 </div>
 
