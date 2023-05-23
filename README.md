@@ -17,7 +17,7 @@
 <div align=left>
 	<h1>🏎️ Diff-E 🏎️</h1>
 		<b>EEG Imagined Speech Decoding Using Diffusion-based Learning </b>
-			<p>Decoding EEG signals  for imagined speech has been a complex task, primarily due to the high-dimensional nature of the data and a low signal-to-noise ratio.</p>
+			<p>Decoding EEG signals for imagined speech has been a complex task, primarily due to the high-dimensional nature of the data and a low signal-to-noise ratio.</p>
 		<b>Key Contributions</b>
 			<ul>
 				<li>Our study introduces Diff-E, a novel method that utilizes denoising diffusion probabilistic models (DDPMs) and a conditional 						autoencoder to address these challenges.</li>
