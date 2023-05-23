@@ -2,7 +2,7 @@
 	<h1>🔎 GigaScience 🔍</h1>
 		<b>Comprehensive collection of EEG signal preprocess/analysis codes</b>
 			<ul>
-				<li>It primarily focuses on  the analysis of EEG data.</li>
+				<li>It primarily focuses on the analysis of EEG data.</li>
 				<li>This folder features different versions for Motor Imagery (MI), Steady-State Visual Evoked Potential (SSVEP), and Event-Related Potential (ERP).</li>
 				<li>It serves as an invaluable resource for neuroscience researchers and data scientists.</li>
 				<li>This content is particularly useful for those interested in EEG data processing and brain-computer interfaces.</li>
