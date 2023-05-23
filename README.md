@@ -38,9 +38,10 @@
 <div align=left>
 	<h1>💻 OnlineDemo 💻</h1>
 		<b>This OnlineDemo folder will continue to be updated for an online demo system that is currently under development.</b>
-			<ul>
-			</ul>
+			<ul></ul>
 </div>
+
+<br>
 
 <div align=left>
 	<h2> Open Source </h2>
