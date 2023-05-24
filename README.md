@@ -72,7 +72,7 @@
 <div align=center>
 	<h3>🚀Contact!🚀</h3>
 		<p>
-			<a href="mailto:j_y_kim@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/j_y_kim@korea.ac.kr-41454A?style=plastic&logo=naver&logoColor=#03C75A"/></a>
+			<a href="mailto:aibrainhub@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aibrainhub@gmail.com-41454A?style=plastic&logo=google&logoColor=#03C75A"/></a>
 		</p>
 </div>
 
