@@ -19,3 +19,4 @@ Basic pre-processing, feature extraction, classificaton, and evaludation modules
 If users are interested in basic codes for MI, this part will be helpful for your understanding.
 
 If you have any questions about our code, please leave any message. web site: http://openbmi.org
+ 
