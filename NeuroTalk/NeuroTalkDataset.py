@@ -5,7 +5,7 @@ import torch
 from torch.utils.data import Dataset
 
 epsilon = np.finfo(float).eps
-
+ 
 class myDataset(Dataset):
     def __init__(self, mode, data="./", task = "SpokenEEG", recon="Y_mel"):
         self.sample_rate = 8000
