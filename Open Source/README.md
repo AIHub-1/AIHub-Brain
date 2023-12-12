@@ -31,6 +31,6 @@
 				<li>This work is based on <a href="https://github.com/PatternRecognition/OpenBMI/tree/master/TNNLS">TNNLS</a>. We will continue to develop and extend from this foundational work.</li>
 			</ul>
 </div>
-				
+			 	
 
 
