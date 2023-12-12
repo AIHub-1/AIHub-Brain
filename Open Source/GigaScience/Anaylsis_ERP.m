@@ -10,7 +10,7 @@ TOTAL_SUBJECTS = 54;
 
 %% INITIALIZATION
 FS = 100;
-
+ 
 %% PERFORMANCE PARAMETERS
 MATRICES = {'A', 'B', 'C', 'D', 'E', 'F', ...
         'G', 'H', 'I', 'J', 'K', 'L', ...
