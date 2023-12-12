@@ -18,7 +18,7 @@ from sklearn.metrics import (
     recall_score,
     top_k_accuracy_score,
 )
-
+ 
 # set the device to use for evaluation
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # create an argument parser for the data loader path
