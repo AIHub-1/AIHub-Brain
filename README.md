@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AIHub&fontColor=3C3C1F&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20AI%20Innovation%20Hub%20BCI%20Project&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20Innovation%20Hub&fontColor=3C3C1F&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20AI%20Innovation%20Hub%20BCI%20Project&descAlignY=51&descAlign=62)
 
 <div align=left>
 <h1>🗣️ NeuroTalk 🗣️</h1>
